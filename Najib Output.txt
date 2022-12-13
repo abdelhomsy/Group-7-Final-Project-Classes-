@@ -1,0 +1,52 @@
+Welcome to Alberta Hospital (AH) Managment system
+1 -    Doctors
+2 - 	Facilities
+3 - 	Laboratories
+4 - 	Patients
+3
+Laboratorys Menu:
+1 - Display Laboratorys list
+2  - Add Laboratory
+3 - Back to the Main Menu
+1
+Lab_Name   Cost       
+Facility1            800
+                
+Facility2            1200
+               
+Facility3            500
+                
+Facility4            50
+                 
+Back to the prevoius Menu
+Laboratorys Menu:
+1 - Display Laboratorys list
+2  - Add Laboratory
+3 - Back to the Main Menu
+2
+Enter the Lab’s Name:lab5
+Enter the Lab’s Cost:250
+['lab5', '250']
+lab5_250
+Back to the previous Menu
+Laboratorys Menu:
+1 - Display Laboratorys list
+2  - Add Laboratory
+3 - Back to the Main Menu
+1
+Lab_Name   Cost       
+Facility1            800
+
+Facility2            1200
+
+Facility3            500
+
+Facility4            50
+
+lab5                 250
+Back to the prevoius Menu
+Laboratorys Menu:
+1 - Display Laboratorys list
+2  - Add Laboratory
+3 - Back to the Main Menu
+3
